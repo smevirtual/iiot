@@ -23,7 +23,7 @@ Learn more about the SME Virtual Network by visiting the following links:
 
 ### Feedback
 
-Please open a new <a href="https://github.com/smevirtual/python_fundamentals_workshop/issues">issue</a>.
+Please open a new <a href="https://github.com/smevirtual/iiot/issues">issue</a>.
 
 ### Code of Conduct
 
